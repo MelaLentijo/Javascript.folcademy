@@ -1,0 +1,52 @@
+[
+{
+    "titulo": "Aritos de plata",
+   "precio": 350,
+    "moneda": {
+        "simbolo": "$",
+        "origen": "Argentina",
+        "tipo": "Peso"
+        },
+"tags": ["Joyeria, accesorios"]
+},
+{
+    "titulo": "Pulseras de oro",
+    "precio": 590,
+    "moneda": {
+        "simbolo": "$",
+        "origen": "Argentina",
+        "tipo": "Peso"
+        },
+"tags": ["Joyeria, accesorios"]
+},
+{
+    "titulo": "Collares de oro",
+    "precio": 1500,
+    "moneda": {
+        "simbolo": "$",
+        "origen": "Argentina",
+        "tipo": "Peso"
+        },
+"tags": ["Joyeria, accesorios"]
+},
+{
+    "titulo": "Anillos de plata",
+    "precio": 700,
+    "moneda": {
+        "simbolo": "$",
+        "origen": "Argentina",
+        "tipo": "Peso"
+        },
+"tags": ["Joyeria, accesorios"]
+},
+{
+    "titulo": "Reloj Casio negro",
+    "precio": 2500,
+    "moneda": {
+        "simbolo": "U$s",
+        "origen": "Estados Unidos",
+        "tipo": "Dolar"
+        },
+"tags": ["Joyeria, accesorios"]
+}
+]
